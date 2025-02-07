@@ -34,7 +34,6 @@ public class Main
 
 		//INPUT SECTION
 		
-		// N/A
 		
 		//CALCULATION SECTION
 		
